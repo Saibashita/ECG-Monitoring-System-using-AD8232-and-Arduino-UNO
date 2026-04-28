@@ -71,4 +71,4 @@ The firmware includes a digital signal processing pipeline:
 This project is for educational and hobbyist purposes only. It is not a medical-grade device.
 
 ---
-Developed by [Saibashita](https://github.com/Saibashita)
+
