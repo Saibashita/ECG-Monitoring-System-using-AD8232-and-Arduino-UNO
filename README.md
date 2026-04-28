@@ -58,8 +58,7 @@ The firmware includes a digital signal processing pipeline:
 ├── firmware/
 │   └── ecg_monitor/        # Arduino source code
 ├── docs/
-│   ├── ecg_report.pdf      # Detailed project report
-│   ├── presentation.pptx   # Project presentation slides
+│   ├── ecg_report.docx     # Detailed project report
 │   └── components_list.xlsx# Bill of Materials (BOM)
 ├── assets/
 │   └── demonstration.mp4   # Video demonstration of the system
